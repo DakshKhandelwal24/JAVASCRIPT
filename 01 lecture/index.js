@@ -24,3 +24,11 @@
 // console.log(num5)
 // // scanned_ID=="gpo122";
 // let payment_Method = cash;
+// let heightofram = 180;
+// let heightOfSham = 172;
+// let isRamTaller = heightofram > heightOfSham;
+// console.log(isRamTaller)
+// let roomTemperature= 30;
+// let normalTemperature= 24;
+// let acRequire = roomTemperature>normalTemperature;
+// console.log("we need to on the ac right",acRequire)
