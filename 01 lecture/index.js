@@ -32,3 +32,7 @@
 // let normalTemperature= 24;
 // let acRequire = roomTemperature>normalTemperature;
 // console.log("we need to on the ac right",acRequire)
+// let studentAttendence=90;
+// let thresholdAttendence=0;
+// let aceptForExam= studentAttendence>thresholdAttendence;
+// console.log("are you elligable for exam==>",aceptForExam)
