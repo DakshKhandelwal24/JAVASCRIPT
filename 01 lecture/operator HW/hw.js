@@ -524,3 +524,4 @@ let scoreFinal = 1200; let tBonus = false; let eLife = true; console.log(scoreFi
 { let x = 10, y = 20; console.log(!(x && y) || (x > 5 && y < 30) && true); } // true
 { let a = 5, b = 0, c = 10; console.log(a && b || c); } // 10
 { let val1 = false, val2 = true, val3 = false; console.log(!(val1 || val2) && val3 || true); } // true
+
