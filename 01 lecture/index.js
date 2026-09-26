@@ -60,6 +60,15 @@
 // let y = x--
 // console.log(y,x)
 
-let x = 500
-let y = --x
-console.log(y,x)
+// let x = 500
+// let y = --x
+// console.log(y,x)
+
+
+let userLike=1
+let increaseLike=++userLike
+console.log("likes",increaseLike)
+
+let timerSecound=60
+let decreaseCountTime= --timerSecound
+console.log("time in next second",decreaseCountTime)
