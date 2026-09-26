@@ -35,4 +35,16 @@
 // let studentAttendence=90;
 // let thresholdAttendence=0;
 // let aceptForExam= studentAttendence>thresholdAttendence;
-// console.log("are you elligable for exam==>",aceptForExam)
+// // console.log("are you elligable for exam==>",aceptForExam)
+// let newUser= true;
+// let ifUserPurchase= false;
+// let elligablefor_offer= newUser || ifUserPurchase;
+
+// console.log("is elligible for special discount",elligablefor_offer)
+
+// let loginStatus = true;
+// let isUserLogin =! loginStatus
+// console.log(isUserLogin)
+a=144;
+let b=a++;
+console.log(a,b)
