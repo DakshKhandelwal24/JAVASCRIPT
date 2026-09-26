@@ -45,6 +45,9 @@
 // let loginStatus = true;
 // let isUserLogin =! loginStatus
 // console.log(isUserLogin)
-a=144;
-let b=a++;
-console.log(a,b)
+// a=144;
+// let b=a++;
+// console.log(a,b)
+// let a = 100
+// let b = ++a
+// console.log(b,a)
