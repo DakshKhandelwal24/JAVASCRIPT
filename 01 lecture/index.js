@@ -51,3 +51,15 @@
 // let a = 100
 // let b = ++a
 // console.log(b,a)
+
+// let x= 200;
+// x--
+// console.log(x)
+
+// let x = 500
+// let y = x--
+// console.log(y,x)
+
+let x = 500
+let y = --x
+console.log(y,x)
