@@ -73,7 +73,19 @@
 // let decreaseCountTime= --timerSecound
 // console.log("time in next second",decreaseCountTime)
 
-let marks=55;
-if(marks>35){
-    console.log("passed")
-}
+// let marks=55;
+// if(marks>35){
+//     console.log("passed")
+// }
+// let number=45
+// if(number>=0){
+//     console.log("number is positive")
+// }
+// let marks=35
+// if(marks<=35){
+//     console.log("failed")
+// }
+// let isLoggedIn= true;
+// if(isLoggedIn==true){
+// console.log("welcome")
+// }
