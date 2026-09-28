@@ -65,10 +65,10 @@
 // console.log(y,x)
 
 
-let userLike=1
-let increaseLike=++userLike
-console.log("likes",increaseLike)
+// let userLike=1
+// let increaseLike=++userLike
+// console.log("likes",increaseLike)
 
-let timerSecound=60
-let decreaseCountTime= --timerSecound
-console.log("time in next second",decreaseCountTime)
+// let timerSecound=60
+// let decreaseCountTime= --timerSecound
+// console.log("time in next second",decreaseCountTime)
