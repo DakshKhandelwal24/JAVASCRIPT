@@ -72,3 +72,8 @@
 // let timerSecound=60
 // let decreaseCountTime= --timerSecound
 // console.log("time in next second",decreaseCountTime)
+
+let marks=55;
+if(marks>35){
+    console.log("passed")
+}
