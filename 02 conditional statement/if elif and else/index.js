@@ -19,5 +19,5 @@
 // }else if(income>1000000 ){
 //     console.log{income/15,"this is your tax"}
 // }
-let marks=88;
-if (marks>90)
+// let marks=88;
+// if (marks>90)
