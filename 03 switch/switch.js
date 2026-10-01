@@ -54,4 +54,7 @@
 //     default:
 //         console.log("Enter valid marks!")
 //     }
-
+// 6 ternary operator
+// condition ? ifValueIsTrue : ifValueIsFalse
+// let num=88
+// let result= num%2==0 ? "even" : "odd";
