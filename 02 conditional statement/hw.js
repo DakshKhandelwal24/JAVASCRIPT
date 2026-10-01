@@ -104,11 +104,11 @@
 // let string=Daksh;
 
 
-if(string>=CharacterData(65) && string<=CharacterData(90)){
-    console.log("Uppercase")
-}else{
-    console.log("lowercase")
-}
+// if(string>=CharacterData(65) && string<=CharacterData(90)){
+//     console.log("Uppercase")
+// }else{
+//     console.log("lowercase")
+// }
 
 // Question 6
 // let num=66;
