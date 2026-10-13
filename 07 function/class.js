@@ -10,3 +10,8 @@
 // };
 
 // console.log(greet("jitesh"))'
+function greet(name){
+    return `Welcome to coding gita , ${name}`
+};
+
+console.log(greet("krishh"))
