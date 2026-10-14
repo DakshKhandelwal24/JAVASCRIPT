@@ -35,18 +35,19 @@
 //     return num % 2 == 0;
 // }
 // console.log(even(4))
-function fullname(first,last){
-    console.log(first + last)
-}
-fullname("jitesh", " choudhary")
+// function fullname(first,last){
+//     console.log(first + last)
+// }
+// fullname("jitesh", " choudhary")
 
-// //------------------------------------------------------------------------------------------------------------------
+// // //------------------------------------------------------------------------------------------------------------------
 
-function isEven(num){
-    if (num % 2 == 0){
-        console.log(`Is Even : True`)
-    }else {
-        console.log(`Is Even : False`)
-    }
-}
-isEven(3)
+// function isEven(num){
+//     if (num % 2 == 0){
+//         console.log(`Is Even : True`)
+//     }else {
+//         console.log(`Is Even : False`)
+//     }
+// }
+// isEven(3)
+
