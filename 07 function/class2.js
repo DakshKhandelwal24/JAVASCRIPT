@@ -85,8 +85,14 @@
 //     return n**3;
 // }
 // console.log(cube(4))
-function isPositive(num) {
-  return num > 0;
-}
-console.log(isPositive(10)); 
-console.log(isPositive(-5)); 
+// function isPositive(num) {
+//   return num > 0;
+// }
+// console.log(isPositive(10)); 
+// console.log(isPositive(-5));
+// function studentreport(name,m1,m2,m3){
+//     let total=m1+m2+m3;
+//     let average=(total/3).toFixed(2)
+//     return "the student"+name+"getting a total number="+total+"and an average ="+avg
+// }let result= studentreport("aniket",87,90,92);
+// console.log(result)

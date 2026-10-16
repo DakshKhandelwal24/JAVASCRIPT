@@ -50,4 +50,9 @@
 //     }
 // }
 // isEven(3)
-
+function displayAge(){
+  let age = 20;
+  console.log(age);
+}
+displayAge();
+console.log(age); 
