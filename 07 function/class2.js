@@ -96,3 +96,24 @@
 //     return "the student"+name+"getting a total number="+total+"and an average ="+avg
 // }let result= studentreport("aniket",87,90,92);
 // console.log(result)
+// function main() {
+//     function helper() {
+//         return "Helper function called";
+//     }
+//     return helper();
+// }
+// console.log(main());
+function calculateDimention (r){
+
+    function findArea (r){
+        let area = (22/7)*r*r
+        return `${area}`
+    }
+    return findArea(r)
+    function findParameter (r){
+        let parameter = 2*(22/7)*r
+        return parameter
+    }
+    
+}
+console.log(calculateDimention(2))
