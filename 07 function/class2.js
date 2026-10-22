@@ -103,17 +103,16 @@
 //     return helper();
 // }
 // console.log(main());
-function calculateDimention (r){
+// function calculateDimention (r){
 
-    function findArea (r){
-        let area = (22/7)*r*r
-        return `${area}`
-    }
-    return findArea(r)
-    function findParameter (r){
-        let parameter = 2*(22/7)*r
-        return parameter
-    }
-    
-}
-console.log(calculateDimention(2))
+//     function findArea (r){
+//         let area = (22/7)*r*r
+//         return `${area}`
+//     }
+//     return findArea(r)
+//     function findParameter (r){
+//         let parameter = 2*(22/7)*r
+//         return parameter
+//     }
+// }
+// console.log(calculateDimention(2))
